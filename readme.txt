@@ -6,3 +6,4 @@ change2
 change3
 Creating a new branch is very quick and simple.
 add merge
+and merge2
